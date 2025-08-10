@@ -1,0 +1,13 @@
+tensorflow>=2.12
+keras>=2.12
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow-addons
+Pillow
+streamlit
+pyyaml
+fastapi
+uvicorn
+slowapi
